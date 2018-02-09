@@ -1,0 +1,1 @@
+<footer class="text-center" style="background-color: black;color: white;">Copyright &copy; W3Schools.com</footer>
